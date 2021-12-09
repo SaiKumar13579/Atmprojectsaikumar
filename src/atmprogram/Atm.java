@@ -3,7 +3,7 @@ package atmprogram;
 import java.util.Scanner;
 
 public class Atm {
-    public static void main(String args[] )
+    public static void main(String[] args)
     {
         //declare and initialize balance, withdraw, and deposit
         int balance = 100000, withdraw, deposit;
