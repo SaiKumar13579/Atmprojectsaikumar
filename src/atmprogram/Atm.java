@@ -11,8 +11,8 @@ public class Atm {
         //create scanner class object to get choice of user
         Scanner sc = new Scanner(System.in);
 
-        while(true)
-        {
+        
+        
             System.out.println("Automated Teller Machine");
             System.out.println("Choose 1 for Withdraw");
             System.out.println("Choose 2 for Deposit");
